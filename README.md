@@ -53,9 +53,9 @@ Con las “gafas de Manovich”, Arcane se presenta como una obra que ilustra va
 - **Remixabilidad**:  la historia y los assets visuales de Arcane son reinterpretados por los usuarios. El contenido generado por los fans se convierte en parte activa del ecosistema cultural.
 
 - **Automatización**:el proceso de animación se acelera gracias a la tecnología, pero sin sacrificar el acabado artesanal. Se utilizan softwares que permiten interpolar movimientos o iluminar escenas complejas con algoritmos.
-- 
+  
 - **Transmedia**: Arcane no es solo una serie, sino un metamedio que extiende su narrativa en videojuegos, redes sociales, videoclips y merchandising, todos activados por plataformas digitales
-- 
+  
 En definitiva, Arcane representa una nueva forma de contar historias a través del software, donde los medios se fusionan, se adaptan y se expanden en tiempo real gracias a las herramientas digitales y a la cultura participativa.
 
 ---
