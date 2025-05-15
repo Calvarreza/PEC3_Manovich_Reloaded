@@ -31,9 +31,15 @@ Este ensayo analiza dos ejemplos actuales que podrían formar parte de una versi
 
 ---
 
-## 🧪 2. Caso 1: Arcane (Netflix / Riot Games)
+## 🧪 2. Caso 1: Arcane (Netflix / Riot Games
+
+### 🎬 Tráiler oficial de *Arcane*
+
+https://github.com/user-attachments/assets/978922e8-220d-453b-9150-c494d18b0060
+
 
 ### 2.1. ¿Qué es Arcane?
+
 
 Arcane es una serie de animación producida por Riot Games y distribuida por Netflix en 2021, basada en el universo del videojuego League of Legends. A diferencia de muchas adaptaciones de videojuegos, Arcane no solo amplía el lore original, sino que se posiciona como una obra narrativa independiente y de alta calidad visual. La serie combina animación 2D y 3D en un estilo híbrido único, creado por el estudio francés Fortiche. Su éxito no se limita al streaming: Arcane ha generado impacto en videojuegos, redes sociales, eventos en directo, música e incluso moda.
 
