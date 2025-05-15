@@ -25,9 +25,9 @@ PEC3 – Manovich Reloaded
 
 ## 🧠 1. Introducción
 
-Vivimos en una época donde el software no solo organiza nuestras tareas cotidianas, sino que estructura también la forma en que creamos, compartimos y consumimos cultura. En *El software toma el mando*, Lev Manovich propone que el software es el nuevo motor de la cultura digital, convirtiéndose en un *metamedio*: un medio capaz de simular y expandir todos los anteriores. A través de conceptos como *modularidad*, *remixabilidad*, *automatización* o *hibridación*, Manovich explica cómo las herramientas digitales transforman tanto los procesos creativos como los productos resultantes.
+Vivimos en una época donde el software no solo organiza nuestras tareas cotidianas, sino que estructura también la forma en que creamos, compartimos y consumimos cultura. En El software toma el mando, Lev Manovich propone que el software es el nuevo motor de la cultura digital, convirtiéndose en un metamedio: un medio capaz de simular y expandir todos los anteriores. A través de conceptos como modularidad, remixabilidad, automatización o hibridación, Manovich explica cómo las herramientas digitales transforman tanto los procesos creativos como los productos resultantes.
 
-Este ensayo analiza dos ejemplos actuales que podrían formar parte de una versión actualizada de su obra: *Arcane* (la serie animada de Riot Games en colaboración con Netflix) y *Cuphead* (un videojuego con animación tradicional llevado también a formato serie). Ambos casos no solo mezclan lenguajes visuales y plataformas, sino que representan nuevas formas de creación cultural impulsadas por el software.
+Este ensayo analiza dos ejemplos actuales que podrían formar parte de una versión actualizada de su obra: Arcane (la serie animada de Riot Games en colaboración con Netflix) y Cuphead (un videojuego con animación tradicional llevado también a formato serie). Ambos casos no solo mezclan lenguajes visuales y plataformas, sino que representan nuevas formas de creación cultural impulsadas por el software. A través de ellos, exploraremos cómo estas obras se sitúan en el cruce entre entretenimiento, arte, software y participación, demostrando que la cultura del software no es el futuro: es el presente.
 
 ---
 
@@ -35,21 +35,28 @@ Este ensayo analiza dos ejemplos actuales que podrían formar parte de una versi
 
 ### 2.1. ¿Qué es Arcane?
 
-*Arcane* es una serie de animación producida por Riot Games y distribuida por Netflix en 2021, basada en el universo del videojuego *League of Legends*. Su animación híbrida combina 2D y 3D y fue desarrollada por el estudio Fortiche. *Arcane* no solo amplía el lore del videojuego, sino que genera impacto en redes sociales, eventos, música y moda.
+Arcane es una serie de animación producida por Riot Games y distribuida por Netflix en 2021, basada en el universo del videojuego League of Legends. A diferencia de muchas adaptaciones de videojuegos, Arcane no solo amplía el lore original, sino que se posiciona como una obra narrativa independiente y de alta calidad visual. La serie combina animación 2D y 3D en un estilo híbrido único, creado por el estudio francés Fortiche. Su éxito no se limita al streaming: Arcane ha generado impacto en videojuegos, redes sociales, eventos en directo, música e incluso moda.
 
 ### 2.2. Elementos de hibridación
 
-- Animación: Dibujo a mano + 3D + herramientas como Blender o After Effects.  
-- Narrativa transmedia: Serie, videojuegos, eventos en vivo, redes sociales.  
-- Cultura participativa: Fans creando teorías, fanarts, memes, etc.  
-- Coordinación con campañas musicales y eventos online.
+Arcane es un ejemplo excelente de cómo el software actúa como conector entre distintas formas de creación cultural. El proceso de animación une dibujo a mano, modelado 3D y composición digital, utilizando herramientas como Blender, Toon Boom o After Effects. A nivel narrativo, combina cine, animación y universo jugable en una propuesta transmedia. En paralelo, se coordinó su lanzamiento con eventos dentro del propio videojuego League of Legends, videoclips musicales con artistas como Imagine Dragons y campañas virales en redes sociales.
+
+Además, la participación activa de los fans es parte esencial del ecosistema: teorías, fanarts, cosplay y análisis circulan en TikTok, Reddit y YouTube, funcionando como extensiones espontáneas de la obra. Incluso en Twitch, se organizan “watch parties” para ver la serie en directo, conectando el contenido con la comunidad gamer. Es una experiencia cultural diseñada para ser consumida, comentada y compartida a través de software.
+
 
 ### 2.3. Análisis desde Manovich
 
-- **Modularidad**: personajes, historias y escenarios funcionan como bloques reutilizables.  
-- **Remixabilidad**: los usuarios reinterpretan y expanden la obra.  
-- **Automatización**: el software agiliza procesos complejos como la animación.  
-- **Transmedia**: extensión en múltiples plataformas digitales.
+Con las “gafas de Manovich”, Arcane se presenta como una obra que ilustra varios de los principios clave del software cultural:
+
+- **Modularidad**: el universo de Arcane está formado por personajes, regiones y relatos que funcionan como módulos independientes, recombinables dentro y fuera de la narrativa principal (como skins en el juego o miniseries en YouTube).
+
+- **Remixabilidad**:  la historia y los assets visuales de Arcane son reinterpretados por los usuarios. El contenido generado por los fans se convierte en parte activa del ecosistema cultural.
+
+- **Automatización**:el proceso de animación se acelera gracias a la tecnología, pero sin sacrificar el acabado artesanal. Se utilizan softwares que permiten interpolar movimientos o iluminar escenas complejas con algoritmos.
+- 
+- **Transmedia**: Arcane no es solo una serie, sino un metamedio que extiende su narrativa en videojuegos, redes sociales, videoclips y merchandising, todos activados por plataformas digitales
+- 
+En definitiva, Arcane representa una nueva forma de contar historias a través del software, donde los medios se fusionan, se adaptan y se expanden en tiempo real gracias a las herramientas digitales y a la cultura participativa.
 
 ---
 
@@ -57,30 +64,44 @@ Este ensayo analiza dos ejemplos actuales que podrían formar parte de una versi
 
 ### 3.1. ¿Qué es Cuphead?
 
-*Cuphead* es un videojuego de 2017 que emula el estilo de los dibujos animados de los años 30, con animaciones dibujadas a mano, escaneadas y digitalizadas. Está desarrollado por Studio MDHR y extendido a través de la serie de Netflix *The Cuphead Show!*.
+Cuphead es un videojuego independiente desarrollado por Studio MDHR y lanzado en 2017. Su propuesta se basa en una estética visual que imita los dibujos animados de los años 30, inspirados por los estudios Fleischer y Disney. Sin embargo, aunque visualmente parezca “retro”, su desarrollo se apoyó en software de última generación para animación, escaneo y programación. Cuphead no solo se consolidó como un fenómeno cultural dentro del mundo gamer, sino que amplió su universo narrativo con una serie animada en Netflix: The Cuphead Show!.
+
+El juego destaca por su dificultad exigente, sus mecánicas modernas y su combinación de animación tradicional hecha a mano con entornos digitales interactivos. Es un ejemplo de cómo la tecnología permite revivir estilos del pasado de manera híbrida, con resultados innovadores y globales.
 
 ### 3.2. Elementos de hibridación
 
-- Técnica: animación tradicional + digitalización + motor Unity.  
-- Mezcla entre videojuego, animación y música.  
-- Cultura fan activa: mods, speedruns, arte, comunidad online.  
-- Serie en Netflix como extensión narrativa.
+La producción de Cuphead fue un proceso artesanal y digital al mismo tiempo. Cada fotograma fue dibujado a mano en papel, luego escaneado y coloreado digitalmente. Los fondos se pintaron con acuarelas reales, y después fueron integrados en Unity, el motor de juego. Se usaron programas como Toon Boom para la animación, Photoshop para la edición y software especializado para la sincronización de música y efectos.
+
+Más allá del aspecto técnico, la obra cruza la frontera entre videojuego y animación clásica, pero también entre medios y públicos: ha sido objeto de mods, fanarts, cosplays, speedruns y miles de vídeos en YouTube y Twitch. La comunidad no solo juega Cuphead, sino que lo reinterpreta, lo expande y lo transforma.
+
+La serie animada de Netflix no se limita a replicar el juego: amplía el universo, da voz y personalidad a los personajes, y se convierte en una entrada alternativa al mundo de Cuphead para un público más amplio.
 
 ### 3.3. Análisis desde Manovich
 
-- **Hibridación**: mezcla de animación analógica con entornos digitales.  
-- **Modularidad**: niveles, jefes y escenarios como bloques.  
-- **Remixabilidad**: estilos reinterpretados por la comunidad.  
-- **Automatización**: procesos de integración y edición digital.  
-- **Interfaz participativa**: comunidad como motor de expansión cultural.
+Desde la perspectiva de Manovich, Cuphead se puede analizar como una muestra clara de hibridación digital, donde se cruzan la tradición analógica y las lógicas del software:
+
+- **Hibridación**: combina animación tradicional con motores de videojuego actuales. Es un juego visualmente antiguo y tecnológicamente moderno.
+
+- **Modularidad**: cada enemigo, escenario y personaje funciona como un módulo reutilizable en otros contextos (serie, merchandising, mods). 
+- **Remixabilidad**: el estilo artístico y narrativo de Cuphead ha sido adoptado por miles de creadores que hacen desde fan games hasta remezclas musicales y animaciones caseras. 
+- **Automatización**: aunque todo parece manual, el montaje final depende de procesos digitales que organizan capas, interpolan sonidos y definen físicas de movimiento. El estilo “viejo” no sería viable sin el software actual  
+- **Interfaz participativa**: la dificultad extrema del juego fomenta comunidades activas que comparten estrategias, memes y contenido audiovisual, mostrando cómo el usuario también reconfigura el contenido.
+- 
+En resumen, Cuphead es un caso excelente de cómo el software permite revivir técnicas históricas para darles una nueva vida en el presente digital. Es un metamedio que cruza generaciones, medios y plataformas, mostrando cómo el pasado y el presente pueden coexistir gracias a la lógica del software.
 
 ---
 
 ## 🤖 4. Reflexión final: ¿Qué escribiría Manovich hoy?
 
-Hoy, Manovich probablemente escribiría su obra como una plataforma colaborativa online, en constante actualización. Usaría GitHub, wikis o apps interactivas en lugar de un libro cerrado. El software ha pasado de ser una herramienta a ser un entorno vivo que se adapta, observa y aprende.
+Si Lev Manovich volviera a escribir El software toma el mando en 2025, seguramente lo haría de forma muy distinta. No solo cambiaría el contenido, también cambiaría el formato. En lugar de un libro tradicional, probablemente publicaría una obra viva, colaborativa y digital: quizás como una web interactiva, una wiki expandible con enlaces multimedia o un repositorio en GitHub con actualizaciones abiertas al público, bajo licencia Creative Commons.
 
-Los casos analizados muestran cómo el software no solo transforma medios, sino también comunidades, audiencias y formas de creación. La cultura del software ya no es solo modular o automatizada: es participativa, expansible y colectiva.
+Desde 2013 hasta hoy, el software ha evolucionado de forma exponencial. La cultura digital ya no gira solo en torno a herramientas de creación como Photoshop o After Effects, sino que se construye sobre entornos conectados y colaborativos: motores como Unity o Unreal, plataformas como TikTok, Twitch o GitHub, e incluso la IA generativa. Ya no solo usamos software, sino que muchas veces el software nos observa, aprende de nosotros y se adapta, como ocurre con los algoritmos de recomendación o las herramientas de creación asistida.
+
+Casos como Arcane y Cuphead muestran que el software no es solo una herramienta de edición o producción. Es un entorno donde se mezclan lenguajes, plataformas, comunidades y culturas. Ya no hablamos solo de “nuevos medios”, sino de entornos vivos, modulables y expansibles. Cada proyecto puede convertirse en una franquicia transmedia, en una comunidad participativa o en un fenómeno global que cambia constantemente.
+
+En esta nueva cultura del software, las fronteras entre creación profesional y amateur, entre juego y narrativa, entre arte y código, se diluyen. El público no es solo espectador o jugador: es creador, editor, curador y difusor. Lo que antes se llamaba “producto cultural”, ahora es más bien un nodo dentro de una red infinita de experiencias posibles.
+
+Manovich, sin duda, seguiría defendiendo que el software es el nuevo motor cultural. Pero también ampliaría su enfoque para explorar fenómenos como el código abierto, la IA generativa, el streaming interactivo, los NFTs (aunque en debate), o las nuevas formas de autoría compartida. Y sobre todo, probablemente invitaría a repensar qué significa crear en un mundo donde el software no solo toma el mando… sino que también se reinventa a sí mismo.
 
 ---
 
