@@ -19,7 +19,8 @@ PEC3 – Manovich Reloaded
    3.2. Elementos de hibridación  
    3.3. Análisis desde Manovich  
 4. Reflexión final: ¿Qué escribiría Manovich hoy?  
-5. Bibliografía  
+5. Valoración personal
+6. Bibliografía  
 
 ---
 
@@ -33,9 +34,9 @@ Este ensayo analiza dos ejemplos actuales que podrían formar parte de una versi
 
 ## 🧪 2. Caso 1: Arcane (Netflix / Riot Games
 
-### 🎬 Tráiler oficial de *Arcane*
+![af5111c370669ce3f1d6fc3fc2d693794bc1c1a3d100fae22aad9b9c5249598f](https://github.com/user-attachments/assets/c84728fc-6343-4ae1-8e04-2dc655cc7b7a)
 
-https://github.com/user-attachments/assets/978922e8-220d-453b-9150-c494d18b0060
+🔗 [Ver el tráiler de Arcane](https://www.youtube.com/watch?v=fXmAurh012s)
 
 
 ### 2.1. ¿Qué es Arcane?
@@ -68,6 +69,11 @@ En definitiva, Arcane representa una nueva forma de contar historias a través d
 
 ## 🕹️ 3. Caso 2: Cuphead (Studio MDHR)
 
+![CupheadRev_Portada](https://github.com/user-attachments/assets/4fef4ac7-8990-4053-89b3-3f3d240645b6)
+
+🔗 [Ver el tráiler de Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50)
+
+
 ### 3.1. ¿Qué es Cuphead?
 
 Cuphead es un videojuego independiente desarrollado por Studio MDHR y lanzado en 2017. Su propuesta se basa en una estética visual que imita los dibujos animados de los años 30, inspirados por los estudios Fleischer y Disney. Sin embargo, aunque visualmente parezca “retro”, su desarrollo se apoyó en software de última generación para animación, escaneo y programación. Cuphead no solo se consolidó como un fenómeno cultural dentro del mundo gamer, sino que amplió su universo narrativo con una serie animada en Netflix: The Cuphead Show!.
@@ -99,6 +105,9 @@ En resumen, Cuphead es un caso excelente de cómo el software permite revivir t�
 
 ## 🤖 4. Reflexión final: ¿Qué escribiría Manovich hoy?
 
+![Captura de pantalla 2025-05-16 194736](https://github.com/user-attachments/assets/db8e12b0-18ef-424a-a96e-946e3c6748c4)
+
+
 Si Lev Manovich volviera a escribir El software toma el mando en 2025, seguramente lo haría de forma muy distinta. No solo cambiaría el contenido, también cambiaría el formato. En lugar de un libro tradicional, probablemente publicaría una obra viva, colaborativa y digital: quizás como una web interactiva, una wiki expandible con enlaces multimedia o un repositorio en GitHub con actualizaciones abiertas al público, bajo licencia Creative Commons.
 
 Desde 2013 hasta hoy, el software ha evolucionado de forma exponencial. La cultura digital ya no gira solo en torno a herramientas de creación como Photoshop o After Effects, sino que se construye sobre entornos conectados y colaborativos: motores como Unity o Unreal, plataformas como TikTok, Twitch o GitHub, e incluso la IA generativa. Ya no solo usamos software, sino que muchas veces el software nos observa, aprende de nosotros y se adapta, como ocurre con los algoritmos de recomendación o las herramientas de creación asistida.
@@ -111,16 +120,33 @@ Manovich, sin duda, seguiría defendiendo que el software es el nuevo motor cult
 
 ---
 
-## 📚 5. Bibliografía
+## 🧭 5. Valoración personal
+
+Realizar este trabajo me ha permitido ver con otros ojos la forma en que consumimos cultura hoy en día. A través de los casos de Arcane y Cuphead, he comprendido que el software no solo es una herramienta técnica, sino un verdadero motor creativo que transforma cómo se cuentan historias, cómo se distribuyen y cómo participamos en ellas.
+
+Aplicar los conceptos de Manovich me ha ayudado a analizar productos culturales con más profundidad, más allá de lo visual o narrativo. Me ha parecido especialmente interesante ver cómo elementos como la modularidad o la automatización se integran en procesos que muchas veces damos por naturales, pero que son posibles gracias a decisiones muy conscientes desde el software.
+
+Además, trabajar en un entorno como GitHub, usando Markdown y publicando el trabajo de forma abierta, me ha hecho experimentar de forma práctica esa idea de cultura participativa y compartida que Manovich defiende. No ha sido solo una tarea académica, sino también una oportunidad para explorar nuevas formas de presentar y publicar conocimiento.
+
+En definitiva, este ejercicio me ha hecho más consciente del papel que el software tiene en la cultura contemporánea y de cómo, al igual que los creadores de Arcane o Cuphead, todos formamos parte de una red de creación colectiva donde el código, la narrativa y la estética se entrelazan.
+
+
+---
+
+## 📚 6. Bibliografía
 
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
 - Riot Games. (2021). *Arcane* [Serie de televisión]. Netflix. https://www.netflix.com/title/81435684  
 - Studio MDHR. (2017). *Cuphead* [Videojuego]. https://cupheadgame.com  
 - Netflix. (2022). *The Cuphead Show!* [Serie animada]. https://www.netflix.com/watch/81164590  
-- Smith, A. R. (1997). *Digital Paint Systems: Historical Overview*. https://alvyray.com/Papers/CG/AniHistory.htm  
 - Xataka. (s.f.). *Tecnología y cultura digital*. https://www.xataka.com  
-- Fortiche Production. (s.f.). *Animation studio for Arcane*. https://www.forticheprod.com/  
-- Unity Technologies. (s.f.). *Unity Game Engine*. https://unity.com  
+- Fortiche Production. (s.f.). *Animation studio for Arcane*. https://www.forticheprod.com/
 
 ---
 
+## 🤝 Créditos y licencia
+
+Trabajo realizado por Cristina Álvarez Zaragoza para la asignatura *Cultura Digital* – UOC, 2025.  
+Publicado bajo licencia Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
