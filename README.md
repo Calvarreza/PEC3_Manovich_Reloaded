@@ -5,6 +5,9 @@ Cristina Álvarez Zaragoza
 UOC - Cultura Digital  
 PEC3 – Manovich Reloaded
 
+![Captura de pantalla 2025-05-16 205131](https://github.com/user-attachments/assets/f8f07cba-2e57-44d9-8720-7b66e319f048)
+
+
 ---
 
 ## 📑 Índice
@@ -96,9 +99,9 @@ Desde la perspectiva de Manovich, Cuphead se puede analizar como una muestra cla
 
 - **Modularidad**: cada enemigo, escenario y personaje funciona como un módulo reutilizable en otros contextos (serie, merchandising, mods). 
 - **Remixabilidad**: el estilo artístico y narrativo de Cuphead ha sido adoptado por miles de creadores que hacen desde fan games hasta remezclas musicales y animaciones caseras. 
-- **Automatización**: aunque todo parece manual, el montaje final depende de procesos digitales que organizan capas, interpolan sonidos y definen físicas de movimiento. El estilo “viejo” no sería viable sin el software actual  
+- **Automatización**: aunque todo parece manual, el montaje final depende de procesos digitales que organizan capas, interpolan sonidos y definen físicas de movimiento. El estilo “viejo” no sería viable sin el software actual.
 - **Interfaz participativa**: la dificultad extrema del juego fomenta comunidades activas que comparten estrategias, memes y contenido audiovisual, mostrando cómo el usuario también reconfigura el contenido.
-- 
+  
 En resumen, Cuphead es un caso excelente de cómo el software permite revivir técnicas históricas para darles una nueva vida en el presente digital. Es un metamedio que cruza generaciones, medios y plataformas, mostrando cómo el pasado y el presente pueden coexistir gracias a la lógica del software.
 
 ---
